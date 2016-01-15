@@ -1,3 +1,3 @@
 <?php 
 
-echo "tel: ";
+echo "tel: 0075-88888888";
